@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jekwulum
-- 👀 I’m interested in Data Science, backend development
+- 👀 I’m interested in Software dvelopment
 - 🌱 I’m currently learning backend dev with the Django web framework
 - 💞️ I’m looking to collaborate on building web apps
 - 📫 How to reach me charlesnwoye2@gmail.com
