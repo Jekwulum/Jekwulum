@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Jekwulum
 - 👀 I’m interested in Software development
-- 🌱 I’m skilled in
-    web development with the django & flask web framework,
-    backend dev with the node.js & front end dev with React.js
+- 🌱 I’m skilled in web development; 
+        backend dev with django REST framework, node.js & front end dev with React.js
 - 💞️ I’m looking to collaborate on building web apps
 - 📫 How to reach me charlesnwoye2@gmail.com or via twitter: @chuk_charles
 
