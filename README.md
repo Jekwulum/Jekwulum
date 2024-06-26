@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Jekwulum
-- 👀 I’m a Full-stack Software Engineer (BE heavy)
-- ☁️ I’m interested in Cloud Engineering
+- 👀 I’m a Backend Software Engineer
+- ☁️ Cloud Engineer (Azure)
 - 🌱 I’m skilled in web development; 
-        backend dev with django REST framework, node.js & front end dev with React.js and TailwindCSS
-- 💞️ I’m looking to collaborate on building web apps, and other opensource projects
+        backend dev with django REST framework, node.js (TypeScript) & front end dev with React.js and TailwindCSS
+- 💞️ I’m looking to collaborate on building apps, and other opensource projects
 - 📫 How to reach me charlesnwoye2@gmail.com or via twitter: @chuk_charles
 - Checkout my portfolio: https://jekwulum.netlify.app/
 
