@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jekwulum
 - 👀 I’m a Backend Software Engineer
-- ☁️ Cloud Engineer (Azure)
+- ☁️ Training on Cloud Engineering (Azure)
 - 🌱 I’m skilled in web development; 
         backend dev with django REST framework, node.js (TypeScript) & front end dev with React.js and TailwindCSS
 - 💞️ I’m looking to collaborate on building apps, and other opensource projects
