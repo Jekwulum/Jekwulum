@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jekwulum
+- 👋 Hi, I’m Charles Nwoye
 - 👀 I’m a Software Engineer
 - ☁️ Cloud Engineering with Azure
 - 🌱 I’m skilled in web development; 
